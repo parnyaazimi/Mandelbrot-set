@@ -90,6 +90,10 @@ The program saves the generated images as numbered BMP files in the current work
 
 These images can be viewed individually or used to create an animation.
 
-## About
+## 🎓 Academic Information
 
-This project was developed as a university project to practice C programming, complex numbers, image generation, and file handling.
+- **Course:** Basic Programming
+- **Academic Level:** Bachelor's Degree — First Semester
+- **Project Type:** Course Project
+- **Instructor:** Dr. Sauleh Eetemadi
+- **Project Date:** ‎June ‎2025
